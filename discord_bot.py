@@ -3,7 +3,7 @@ from http import client
 import discord
 
 #以下TOKEN 
-TOKEN  = 'OTk3MTUzOTU4NzE4MDk5NTg3.GQMPpe.5gfkP4yoyTUJ62I2OTdU5obquWDF_YbBZ4EuSA'
+TOKEN  = ''
 
 client = discord.Client()
 
