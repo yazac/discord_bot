@@ -6,7 +6,7 @@ import discord
 import time
 
 #以下TOKEN 
-TOKEN  = 'OTk3MTUzOTU4NzE4MDk5NTg3.Ge5MmH.z3orHZTPU8uA6gXXAa4Ndx3SuBDcwpxn-PshiA'
+TOKEN  = ''
 
 client = discord.Client()
 
